@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@font-face {
+  font-family: Veneer;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./assets/fonts/Veneer.ttf") format("truetype");
+}
+.veneer {
+  font-family: Veneer;
+}
+
+@layer base {
+  html {
+    font-family: "Work Sans", serif;
+  }
+  .btn-one {
+    @apply w-full xl:w-auto border-orange-500 border-2 py-3 px-12 font-bold text-orange-500 hover:bg-orange-500 hover:text-black transition-all duration-300 hover:transition-all hover:duration-300 cursor-pointer text-center;
+  }
+}
+
+html,
+body {
+  @apply bg-white dark:bg-gray-950;
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+}
+
+@utility container {
+  margin-inline: auto;
+}
+
+@theme {
+  --color-orange: oklch(70.5% 0.213 47.604);
+}
+
+.container {
+  max-width: 1340px !important;
+}
+
+button,
+a {
+  cursor: pointer;
+}

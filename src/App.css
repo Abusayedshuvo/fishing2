@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@font-face {
+  font-family: Veneer;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./assest/fonts/Veneer.ttf") format("truetype");
+}
+.veneer {
+  font-family: Veneer;
+}
+
+.react-tabs__tab--selected {
+  background: rgb(249 115 22 / var(--tw-bg-opacity, 1)) !important;
+  border-color: rgb(249 115 22 / var(--tw-bg-opacity, 1)) !important;
+  color: black;
+  border-radius: 0 0 0 0 !important;
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "./product/02.png",
+    "category": "TIBOR",
+    "title": "Tibor Gulfstream Right-hand",
+    "price": "$550.99"
+  },
+  {
+    "id": 2,
+    "img": "./product/03.jpg",
+    "category": "TIBOR",
+    "title": "Tibor Limited Edition Riptide",
+    "price": "$600.99"
+  },
+  {
+    "id": 3,
+    "img": "./product/04.png",
+    "category": "GREYS",
+    "title": "Fishing rod with a coil and flies lie",
+    "price": "$800.99"
+  },
+  {
+    "id": 4,
+    "img": "./product/05.jpg",
+    "category": "UMPQUA",
+    "title": "The NorthFork™ Waist Pack",
+    "price": "$400.99"
+  },
+  {
+    "id": 5,
+    "img": "./product/06.jpg",
+    "category": "GREYS",
+    "title": "Greys cruise Combo Fly rods",
+    "price": "$620.99"
+  },
+  {
+    "id": 6,
+    "img": "./product/07.png",
+    "category": "SIMMS",
+    "title": "Simms® G4Z Stockingfoot",
+    "price": "$520.99"
+  },
+  {
+    "id": 7,
+    "img": "./product/08.png",
+    "category": "SIMMS",
+    "title": "Fishing gear still Rod & Reel",
+    "price": "$420.99"
+  },
+  {
+    "id": 8,
+    "img": "./product/09.png",
+    "category": "LURES",
+    "title": "Silicone lures.fishing box",
+    "price": "$320.99"
+  }
+]

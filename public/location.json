@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "img": "/location/location-1.jpg",
+    "title": "Ufa, Russia",
+    "text": "Info & Directions"
+  },
+  {
+    "id": 2,
+    "img": "/location/location-2.jpg",
+    "title": "Stromness, Orkney, Scotland, UK",
+    "text": "Info & Directions"
+  }
+]

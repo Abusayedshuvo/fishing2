@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "img": "/team/t-1.jpg",
+    "name": "Sarah Fisher",
+    "title": "Fishing Gear Specialist"
+  },
+  {
+    "id": 2,
+    "img": "/team/t-2.jpg",
+    "name": "Mark Rivers",
+    "title": "Angling Equipment Manager"
+  },
+  {
+    "id": 3,
+    "img": "/team/t-4.jpg",
+    "name": "Emily Lake",
+    "title": "Fly Tying Expert"
+  },
+  {
+    "id": 4,
+    "img": "/team/t-5.jpg",
+    "name": "Alex Fisher",
+    "title": "Saltwater Fishing Guide"
+  },
+  {
+    "id": 5,
+    "img": "/team/t-6.jpg",
+    "name": "Ryan Cove",
+    "title": "Freshwater Fishing Instructor"
+  },
+  {
+    "id": 6,
+    "img": "/team/t-7.jpg",
+    "name": "Rachel Miller",
+    "title": "Australia Program Director"
+  },
+  {
+    "id": 7,
+    "img": "/team/t-8.jpg",
+    "name": "Brandon Davis",
+    "title": "Program Director"
+  },
+  {
+    "id": 8,
+    "img": "/team/t-9.jpg",
+    "name": "Joshua Nguyen",
+    "title": "Photography & Creative"
+  },
+  {
+    "id": 9,
+    "img": "/team/t-10.jpg",
+    "name": "Matthew Lee",
+    "title": "US Program Director"
+  },
+  {
+    "id": 10,
+    "img": "/team/t-11.jpg",
+    "name": "Ashley Martin",
+    "title": "Program Administrator"
+  },
+  {
+    "id": 11,
+    "img": "/team/t-12.jpg",
+    "name": "Jason Robinson",
+    "title": "Canada Program Administrator"
+  },
+  {
+    "id": 12,
+    "img": "/team/t-13.jpg",
+    "name": "Taylor Hall",
+    "title": "South America Program Administrator"
+  },
+  {
+    "id": 13,
+    "img": "/team/t-14.jpg",
+    "name": "Andrew Smith",
+    "title": "Senior Accountant"
+  },
+  {
+    "id": 14,
+    "img": "/team/t-15.jpg",
+    "name": "Nicholas Garcia",
+    "title": "Program Administrator"
+  },
+  {
+    "id": 15,
+    "img": "/team/t-16.jpg",
+    "name": "Nicholas Garcia",
+    "title": "Africa Program Administrator"
+  }
+]

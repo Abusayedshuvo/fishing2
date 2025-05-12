@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "subCategory": "Shop",
+    "items": [
+      {
+        "id": 1,
+        "link": "Fly Rods",
+        "path": "/shop/fly-rods"
+      },
+      {
+        "id": 2,
+        "link": "Fly Tying",
+        "path": "/shop/fly-tying"
+      },
+      {
+        "id": 3,
+        "link": "Fly Reels",
+        "path": "/shop/fly-reels"
+      },
+      {
+        "id": 4,
+        "link": "Fly Lines",
+        "path": "/shop/fly-lines"
+      },
+      {
+        "id": 5,
+        "link": "Leaders & Tippet",
+        "path": "/shop/leaders-tippet"
+      },
+      {
+        "id": 6,
+        "link": "Fly Fishing Apparel",
+        "path": "/shop/fly-fishing-apparel"
+      },
+      {
+        "id": 7,
+        "link": "Travel & Luggage",
+        "path": "/shop/travel-luggage"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subCategory": "Popular Destinations",
+    "items": [
+      {
+        "id": 1,
+        "link": "Alaska Fly Fishing Trips",
+        "path": "/destinations/alaska"
+      },
+      {
+        "id": 2,
+        "link": "Seychelles Fly Fishing Trips",
+        "path": "/destinations/seychelles"
+      },
+      {
+        "id": 3,
+        "link": "Montana Fly Fishing Trips",
+        "path": "/destinations/montana"
+      },
+      {
+        "id": 4,
+        "link": "Belize Fly Fishing Trips",
+        "path": "/destinations/belize"
+      },
+      {
+        "id": 5,
+        "link": "Bahamas Fly Fishing Trips",
+        "path": "/destinations/bahamas"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "subCategory": "Customer Support",
+    "items": [
+      {
+        "id": 1,
+        "link": "Airline Ticketing",
+        "path": "/support/airline-ticketing"
+      },
+      {
+        "id": 2,
+        "link": "Pricing Policy",
+        "path": "/support/pricing-policy"
+      },
+      {
+        "id": 3,
+        "link": "Shipping Information",
+        "path": "/support/shipping-information"
+      },
+      {
+        "id": 4,
+        "link": "Coverage",
+        "path": "/support/coverage"
+      },
+      {
+        "id": 5,
+        "link": "Trip Insurance / Evacuation",
+        "path": "/support/trip-insurance"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "subCategory": "The Team",
+    "items": [
+      {
+        "id": 1,
+        "link": "Fishing Frenzy Job Openings",
+        "path": "/team/job-openings"
+      },
+      {
+        "id": 2,
+        "link": "Meet the Team",
+        "path": "/team/meet-the-team"
+      },
+      {
+        "id": 3,
+        "link": "Fishing Frenzy Flyfishing - Fly Shop",
+        "path": "/team/fly-shop"
+      },
+      {
+        "id": 4,
+        "link": "Coverage",
+        "path": "/team/coverage"
+      },
+      {
+        "id": 5,
+        "link": "Fishing Frenzy Flyfishing - Travel Services",
+        "path": "/team/travel-services"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "subCategory": "Blogs, Reports & More",
+    "items": [
+      {
+        "id": 1,
+        "link": "Backstage Pass Fishing Blog",
+        "path": "/blogs/backstage-pass"
+      },
+      {
+        "id": 2,
+        "link": "Montana Fishing Reports",
+        "path": "/blogs/montana-reports"
+      },
+      {
+        "id": 3,
+        "link": "Travel News & Updates",
+        "path": "/blogs/travel-news"
+      },
+      {
+        "id": 4,
+        "link": "Waypoints Podcast",
+        "path": "/blogs/waypoints-podcast"
+      }
+    ]
+  }
+]
