@@ -6,7 +6,7 @@ const Product = ({ product }) => {
     <>
       <div className="shadow-xl 2xl:min-h-[500px]">
         <a className="" href="#">
-          <img src={product.img} alt="" className="img-fluid" />
+          <img src={product?.img} alt="" className="img-fluid" />
         </a>
         <div className="bg-orange-500 text-center py-2">
           <button className="text-white">ADD TO CART</button>
@@ -23,7 +23,7 @@ const Product = ({ product }) => {
           <a className="text-xl font-bold" href="#">
             {product?.title}
           </a>
-          <p className="text-end pt-3"> {product?.price}</p>
+          <p className="pt-3"> {product?.price}</p>
         </div>
       </div>
     </>

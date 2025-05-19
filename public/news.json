@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "img": "../public/categories/d-a.jpg",
+    "img": "/categories/d-a.jpg",
     "title": "Barramundi Season Opens with Record Catches Reported"
   },
   {
     "id": 2,
-    "img": "../public/categories/d-airt.jpg",
+    "img": "/categories/d-airt.jpg",
     "title": "Southern Bluefin Tuna Migration Spotted Off NSW Coast"
   },
   {
     "id": 3,
-    "img": "../public/categories/d-alaska.jpg",
+    "img": "/categories/d-alaska.jpg",
     "title": "Annual Fly Fishing Festival Returns to Tasmania This Summer"
   },
   {
     "id": 4,
-    "img": "../public/categories/d-b.jpg",
+    "img": "/categories/d-b.jpg",
     "title": "2024 Marlin Fishing Tournament Announced in Queensland"
   },
   {
     "id": 5,
-    "img": "../public/categories/d-n.jpg",
+    "img": "/categories/d-n.jpg",
     "title": "Victoria Announces Massive Trout Stocking Program for 2024"
   },
   {
     "id": 6,
-    "img": "../public/categories/d-Sweden.jpg",
+    "img": "/categories/d-Sweden.jpg",
     "title": "Temporary Ban on Coral Trout Fishing in Great Barrier Reef Zone"
   },
   {
     "id": 7,
-    "img": "../public/categories/d-us.jpg",
+    "img": "/categories/d-us.jpg",
     "title": "Kayak Fishing Gains Popularity in Australian Waters"
   },
   {
     "id": 8,
-    "img": "../public/categories/d-usa.jpg",
+    "img": "/categories/d-usa.jpg",
     "title": "New Fishing App Launched to Track Catches and Hotspots"
   },
   {
     "id": 9,
-    "img": "../public/categories/d-alaska.jpg",
+    "img": "/categories/d-alaska.jpg",
     "title": "Increased Shark Sightings Prompt Safety Warnings for Anglers"
   },
   {
     "id": 10,
-    "img": "../public/categories/d-Sweden.jpg",
+    "img": "/categories/d-Sweden.jpg",
     "title": "Free Fishing Workshops for Beginners Announced Nationwide"
   }
 ]

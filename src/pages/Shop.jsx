@@ -1,13 +1,12 @@
-import React from "react";
-import Breadcrumb from "../components/Destinations/Breadcrumb/Breadcrumb";
-import Description from "../components/Destinations/Description/Description";
-import ProductLayout from "../components/Shop/ProductLayout/ProductLayout";
+import Description from "../components/Description/Description";
+import ProductLayout from "../components/Shop/ProductLayout";
 import CTA from "../components/CTA/CTA";
+import Pagination from "../components/Shop/Pagination";
 
 const Shop = () => {
   return (
     <>
-      <Breadcrumb></Breadcrumb>
+      <Pagination></Pagination>
       <Description></Description>
       <ProductLayout></ProductLayout>
       <CTA></CTA>

@@ -6,9 +6,9 @@ const Description = () => {
       <div className=" bg-[#f1f1f1] py-20">
         <div className="container mx-auto">
           <div className="grid grid-cols-1 xl:grid-cols-4">
-            <div className="col-span-1 my-auto text-left xl:text-right px-5 xl:px-0 ">
+            <div className="col-span-1 my-auto  px-5 xl:px-0 ">
               <a
-                className="text-3xl font-bold veneer mb-10 xl:mb-0 inline-block"
+                className="text-[54px] font-bold veneer mb-10 xl:mb-0 inline-block"
                 href="/"
                 data-discover="true"
               >

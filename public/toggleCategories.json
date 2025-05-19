@@ -3,146 +3,146 @@
     {
       "country": "Sweden",
       "title": "Harstena in the Östergötland Archipelago",
-      "img": "../public/categories/d-a.jpg",
+      "img": "/categories/d-a.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-1.jpg"
+          "image": "/categories/guide-1.jpg"
         },
         {
-          "image": "../public/categories/guide-2.jpg"
+          "image": "/categories/guide-2.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         }
       ]
     },
     {
       "country": "Tennessee",
       "title": "Long Casting in the Greenbrier River",
-      "img": "../public/categories/d-usa.jpg",
+      "img": "/categories/d-usa.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-1.jpg"
+          "image": "/categories/guide-1.jpg"
         },
         {
-          "image": "../public/categories/guide-2.jpg"
+          "image": "/categories/guide-2.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         }
       ]
     },
     {
       "country": "New Zealand",
       "title": "Caucasian Woman Catching Fish in Remote River",
-      "img": "../public/categories/d-us.jpg",
+      "img": "/categories/d-us.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-1.jpg"
+          "image": "/categories/guide-1.jpg"
         },
         {
-          "image": "../public/categories/guide-2.jpg"
+          "image": "/categories/guide-2.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         },
         {
-          "image": "../public/categories/guide-4.jpg"
+          "image": "/categories/guide-4.jpg"
         }
       ]
     },
     {
       "country": "Australia",
       "title": "Couple in Boat on Pond or Lake Fly Fishing",
-      "img": "../public/categories/d-airt.jpg",
+      "img": "/categories/d-airt.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-1.jpg"
+          "image": "/categories/guide-1.jpg"
         },
         {
-          "image": "../public/categories/guide-2.jpg"
+          "image": "/categories/guide-2.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         },
         {
-          "image": "../public/categories/guide-4.jpg"
+          "image": "/categories/guide-4.jpg"
         },
         {
-          "image": "../public/categories/guide-5.jpg"
+          "image": "/categories/guide-5.jpg"
         }
       ]
     },
     {
       "country": "Bahamas",
       "title": "Two Men Fly-Fish from a Boat in the Bahamas",
-      "img": "../public/categories/d-alaska.jpg",
+      "img": "/categories/d-alaska.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-2.jpg"
+          "image": "/categories/guide-2.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         },
         {
-          "image": "../public/categories/guide-4.jpg"
+          "image": "/categories/guide-4.jpg"
         },
         {
-          "image": "../public/categories/guide-5.jpg"
+          "image": "/categories/guide-5.jpg"
         }
       ]
     },
     {
       "country": "Alaska",
       "title": "Fisherman Releasing Trophy Rainbow Trout",
-      "img": "../public/categories/d-b.jpg",
+      "img": "/categories/d-b.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-1.jpg"
+          "image": "/categories/guide-1.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         },
         {
-          "image": "../public/categories/guide-4.jpg"
+          "image": "/categories/guide-4.jpg"
         },
         {
-          "image": "../public/categories/guide-5.jpg"
+          "image": "/categories/guide-5.jpg"
         }
       ]
     },
     {
       "country": "USA",
       "title": "Provincetown Harbour, Fishing Boats",
-      "img": "../public/categories/d-n.jpg",
+      "img": "/categories/d-n.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-2.jpg"
+          "image": "/categories/guide-2.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         },
         {
-          "image": "../public/categories/guide-4.jpg"
+          "image": "/categories/guide-4.jpg"
         },
         {
-          "image": "../public/categories/guide-5.jpg"
+          "image": "/categories/guide-5.jpg"
         }
       ]
     },
     {
       "country": "Mexico",
       "title": "Airline Ticket for Fly Fishing",
-      "img": "../public/categories/d-Sweden.jpg",
+      "img": "/categories/d-Sweden.jpg",
       "services": [
         {
-          "image": "../public/categories/guide-2.jpg"
+          "image": "/categories/guide-2.jpg"
         },
         {
-          "image": "../public/categories/guide-3.jpg"
+          "image": "/categories/guide-3.jpg"
         },
         {
-          "image": "../public/categories/guide-4.jpg"
+          "image": "/categories/guide-4.jpg"
         }
       ]
     }
